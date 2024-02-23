@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning MlOps
 - 💞️ I’m looking to collaborate on projects that have a good impact on the society
-- 📫 reach me via: https://www.linkedin.com/in/socialnavya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 reach me via: https://www.linkedin.com/in/socialnavya
 
 
 <!---
